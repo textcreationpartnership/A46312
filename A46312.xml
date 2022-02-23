@@ -1,0 +1,630 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A journal of the Siege of Mentz under the command of his serene high[ness] the Duke of Lorrain, and the confederate princes. Who attack'd that important place on the 21. of June, and took it on the 31. of August, in the year, 1689. With all the bravery, courage, resolution and prudence, as ever has been shewn in any nation. Written in the German tongue by an eminent officer, and translated into English from a manuscript sent to His Majesty, King William, of Great Britain.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 84 KB of XML-encoded text transcribed from 18 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A46312</idno>
+            <idno type="STC">Wing J1106</idno>
+            <idno type="STC">ESTC R217106</idno>
+            <idno type="EEBO-CITATION">99828807</idno>
+            <idno type="PROQUEST">99828807</idno>
+            <idno type="VID">33239</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A46312)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 33239)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1969:02)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A journal of the Siege of Mentz under the command of his serene high[ness] the Duke of Lorrain, and the confederate princes. Who attack'd that important place on the 21. of June, and took it on the 31. of August, in the year, 1689. With all the bravery, courage, resolution and prudence, as ever has been shewn in any nation. Written in the German tongue by an eminent officer, and translated into English from a manuscript sent to His Majesty, King William, of Great Britain.</title>
+               </titleStmt>
+               <extent>[4], 31, [1]p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for R. Bentley, and are to be sold by R. Baldwin, in the Old-Baily,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In the imprint, the 'y' in 'Old-Baily' is upside-down.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  V, --  Duke of Lorraine, 1643-1690 --  Early works to 1800.</term>
+               <term>Grand Alliance, War of the, 1689-1697 --  Early works to 1800.</term>
+               <term>Mainz (Germany) --  History --  Siege, 1689 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-11</date>
+            <label>Kate Allen</label>Sampled and proofread</change>
+         <change>
+            <date>2013-11</date>
+            <label>Kate Allen</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:33239:1" rendition="simple:additions"/>
+            <p>A JOURNAL OF THE Siege of Mentz, Under the Command of His Serene Highn<gap reason="illegible" resp="#MURP" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> THE <hi>Duke of Lorrain.</hi>
+            </p>
+            <p>AND THE CONFEDERATE PRINCES.</p>
+            <p>Who Attack'd that Important Place on the 21. of <hi>June,</hi> and took it on the 31. of <hi>Auguſt,</hi> in the Year, 1689.</p>
+            <p>With all the Bravery, Courage, Reſolution and Prudence, as ever has been ſhewn in any Nation.</p>
+            <p>Written in the <hi>German</hi> Tongue by an Eminent Officer, and Tranſlated into <hi>Engliſh</hi> from a Manuſcript ſent to His Ma<g ref="char:EOLhyphen"/>jeſty, King <hi>WILLIAM,</hi> of <hi>GREAT BRITAIN.</hi>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>R. Bentley,</hi> and are to be ſold by <hi>R. Baldwin,</hi> in the <hi>Old-Baily.</hi> 1689.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:33239:2"/>
+            <pb facs="tcp:33239:2"/>
+            <head>TO THE READER.</head>
+            <p>THIS Brief and Exact Account of the Beſieging and Taking of ſuch an Important Place as the City of <hi>Mentz,</hi> cannot but be acceptable to all ſorts of Perſons, not excepting that Party that loſt it; For in it they will obſerve the Candor of a Generous Conqueror, who gives all the Praiſes to his Enemies that they deſerve: He omits nothing of Importance that the Beſieged did to defend themſelves, and he lays down the advantageous Articles upon which this Strong Place was ſurrender'd. Here even Generals, and Subordinate Field-Officers, will have a full View of thoſe Methods which thoſe brave <hi>Hero's</hi> who attack'd it, did obſerve. The Inferiour Officers will ſee with what Cou<g ref="char:EOLhyphen"/>rage and Valour they led on thoſe Men which each command<g ref="char:EOLhyphen"/>ed in their reſpective Poſts. The Common Centries will be fill'd with a Generous Envy and Emulation, to imitate thoſe that were employ'd in this Remarkable Siege: And even ſuch Perſons as are not addicted to Arms, will find a Delight in Reading with what Bravery it was Attack'd and Defended:
+<pb facs="tcp:33239:3"/>The rather, becauſe that this Relation of it has been tranſ<g ref="char:EOLhyphen"/>mitted to us by an Eminent Officer, who had a great Share in the Action, and that was an Eye-Witneſs of the greateſt part of the whole Proceeding, ſo far as the Conſiderable Em<g ref="char:EOLhyphen"/>ploy which he had, would permit him: And where his Eye could not reach, he made uſe of ſo exact an Inquiſition from thoſe who Commanded in their reſpective Poſts, that it will give ſufficient Satisfaction. In a word, This is the moſt Ex<g ref="char:EOLhyphen"/>act Journal that could be made of ſuch a Siege. I ſhall no longer detain the Ingenious Reader from ſatisfying his Curio<g ref="char:EOLhyphen"/>ſity therein.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:33239:3"/>
+            <head>A DIURNAL, &amp;c. Concerning the Siege and Reduction of <hi>Mentz.</hi>
+            </head>
+            <p>
+               <hi>June</hi> 21.</p>
+            <p>HIS Sereniſſime Highneſs the Duke of <hi>Lorrain</hi> decamped this day from <hi>Mayen</hi> with the whole Army, and having le<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> a Garriſon of 2000 men in divers ſmall Towns on the other ſide of the <hi>Moſel,</hi> to cover the Country of <hi>Treves</hi> and the Towns of <hi>Cochheim, Mayen, Kayſerſeck, Andernack,</hi> and o<g ref="char:EOLhyphen"/>thers, and to fill ſome places ſituated on the <hi>Rhine,</hi> in the <hi>Ringga<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> near <hi>Coblence,</hi> as alſo <hi>Konnigſtein,</hi> he marc'd that very day as far as <hi>Munſter.</hi>
+            </p>
+            <p>
+               <hi>June</hi> 22. At Noon he took up his general Quarters towards <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> on the <hi>Moſel,</hi> where he caus'd the Bridge of Boats to be brought, which could be put up in three hours time, and his High<g ref="char:EOLhyphen"/>neſs paſs'd it that very day with all the Foot, and one Regiment of Dragoons, and encamped his Troops on the other ſide of the <hi>Moſel</hi> near <hi>Alcken,</hi> the Artillery and all the Baggage paſſing the River in the night.</p>
+            <p>
+               <hi>June</hi> 23. The Horſe, with the reſt of the Dragoons, paſs'd the Bridge, the reſolution of fording the River over, having been chan<g ref="char:EOLhyphen"/>ged; and the whole Army leaving on one ſide the Caſtle of <hi>Eren<g ref="char:EOLhyphen"/>ſtein,</hi> ruin'd by the <hi>French,</hi> continu'd its March the ſame day over high Mountains and ſtrait Paſſes, where the Horſe was oblig'd to file off.</p>
+            <p>The Camp was on a Line between <hi>Herwieſen</hi> and <hi>Buckholtz,</hi> and they advanc'd but two hours March that day.</p>
+            <pb n="2" facs="tcp:33239:4"/>
+            <p>The <hi>Lunenberg</hi> Army encamp'd beyond <hi>Buckholtz,</hi> where it was come the day before, having taken its March on this ſide the <hi>Moſel</hi> over the Mountains. The Imperialiſts left Wing did reach to it: Towards night the Baggage, which had taken another way, joyn'd the Army.</p>
+            <p>
+               <hi>June</hi> 24. The Duke of <hi>Lorrain</hi>'s Horſe and the Dragoons, march'd firſt, the Imperial Foot follow'd them, and they march'd before the Army of <hi>Lanenberg,</hi> which had plac'd it ſelf near the way, and whoſe Foot joyn'd that of the Imperialiſts, and the Horſe were to form the Reerguard. The Camp was not far from <hi>Leuningen,</hi> and it was upon two Lines.</p>
+            <p>
+               <hi>June</hi> 25. That day the Army reſted. Till then there had been no talk of any conſiderable Motion of the Enemy, and there was a Ru<g ref="char:EOLhyphen"/>mour that there was a great Conſternation amongſt them: We had information that 14 Cornets were gone from <hi>Mayance</hi> or <hi>Mentz</hi> to<g ref="char:EOLhyphen"/>wards <hi>Homburg,</hi> that the Enemies had carried away a great number of Waggons loaded with Baggage and Wine, that they had reduc'd to aſhes the Cities of <hi>Landau,</hi> of <hi>Kim</hi> on the <hi>Nohe,</hi> and <hi>Keyſerlautern.</hi> The Country-people told us alſo, that on the 23d a Party of 50 Horſe of the Enemy had advanc'd within two miles of this place. But ſome Party of our Forces having been ſent to get intelligence of the E<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>mies Motions, return'd without information. Two Deſerters from <hi>Mount Royal</hi> told us, that that place was furniſh'd with 12 Battalions, but that the Garriſon deſerted in great numbers, ſo that ſome Com<g ref="char:EOLhyphen"/>panies conſiſted but of 15 or 20 men; they alſo inform'd us, that a conſiderable Party of Dragoons had intrench'd themſelves at <hi>Trar<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ack</hi> under the Cannon of that Place, and that they were working with all poſſible diligence on the Fortifications of <hi>Trarback</hi> and <hi>Mount Royal,</hi> that they were already for the moſt part ſet in a poſture of defence; and that the Governour <hi>Montal</hi> did frequently ſend out Parties to burn the Country; and that the Enemy had abandon'd the City of <hi>Treves,</hi> without burning or plundering of it, having lodg'd the Garriſon that was in it, in <hi>Mount Royal</hi> and <hi>Thionville.</hi>
+            </p>
+            <p>Here follows an Account of the Field-Officers.</p>
+            <list>
+               <head>GENERALS.</head>
+               <item>General Lieutenant: The Duke of <hi>Lorrain.</hi>
+               </item>
+               <item>General Field-Marſhal: Count <hi>Starenberg.</hi>
+               </item>
+            </list>
+            <p>The Foot is commanded by
+<list>
+                  <item>The Grand Maſter of the Tutonick Order, General. </item>
+                  <item>
+                     <hi>Souches, Feldzeugmeiſter.</hi>
+                  </item>
+                  <pb n="3" facs="tcp:33239:4"/>
+                  <item>
+                     <hi>Sachſen Cobourg,</hi> Major General.</item>
+                  <item>
+                     <hi>
+                        <gap reason="illegible" resp="#MURP" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>terſdorff,</hi> Major General.</item>
+               </list>
+            </p>
+            <p>The right Wing is command<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap> by his Highneſs the <hi>Margrave <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>,</hi> in quality of General of the Horſe.</p>
+            <p>Under him,</p>
+            <p>The Field-Marſhal Lieutenant, Count of <hi>Thurn,</hi> commands the Regiments of Horſe belonging to <hi>Dunewald</hi> and <hi>Taffe.</hi>
+            </p>
+            <p>The Field-Marſhal Lieutenant, Prince of <hi>Commercy,</hi> commands the Regiments of Curaſſiers of <hi>Franconia,</hi> and that of the Dragoons of <hi>B<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>eith.</hi>
+            </p>
+            <p>The left Wing is commanded by Count <hi>Palfi,</hi> in quality of Ge<g ref="char:EOLhyphen"/>neral of the Horſe.</p>
+            <p>Under him,</p>
+            <p>The Field-Marſhal Lieutenant, Duke of <hi>Wirtemberg,</hi> commands the Regiment of Horſe of <hi>Palſi</hi> and of <hi>Newbourg.</hi>
+            </p>
+            <p>The Count of <hi>Serau</hi> is to command in quality of General Major, in both the Wings.</p>
+            <p>
+               <hi>June</hi> 26, 27. The Army remain'd thoſe two days in the ſame Camp, and there paſs'd nothing of Remark: according to Country-peoples Reports, there had been ſeen near to <hi>Caſtellan,</hi> not far from <hi>Creutzenach,</hi> ſome French Parties conſiderable ſtrong; but ſome Im<g ref="char:EOLhyphen"/>perial Parties, which were ſent after them, commanded by the Prince of <hi>C<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mmercy,</hi> ſaw none of the Enemy.</p>
+            <p>
+               <hi>June</hi> 28. The Army being on its March, and having gone through ſuch narrow Defiles, that in ſome places the Horſe could not go but one after another, encamped between <hi>Kiſſelbach</hi> and <hi>Richereda,</hi> the Camp being poſted all in a Line.</p>
+            <p>
+               <hi>June</hi> 29. We decamped again, and march'd near two hours through Defiles, on the <hi>Hundſruck,</hi> to a ſmall River named <hi>Gildenbach,</hi> which falls into the <hi>Nohe,</hi> and the great Foreſt of <hi>Sohn,</hi> which extends as far as <hi>Metz.</hi> The Army encamped there on two Lines.</p>
+            <p>
+               <hi>June</hi> 30. The Army reſted. The ſame day came the old Foot Re<g ref="char:EOLhyphen"/>giment of Count <hi>Staremberg,</hi> with a Battalion of <hi>Auersberg,</hi> who had paſs'd the River on the Flying Bridge, which had been brought from <hi>Coblence</hi> to <hi>Rudeſheim.</hi>
+            </p>
+            <p>
+               <hi>July</hi> 1. We took that day our March through narrow Defiles, which were very troubleſom, high Mountains, and Woods, which laſt<g ref="char:EOLhyphen"/>ed above three hours; we went and encamp'd between <hi>Schwabenhauſon</hi> and <hi>Wald Laberſheim,</hi> two Villages that are diſtant, in a direct Line, two hours from <hi>Creutzenach</hi> and <hi>Scomberg;</hi> 2000 Foot were command<g ref="char:EOLhyphen"/>ed to hide themſelves in the Wood, to obſerve the Enemies Motion.</p>
+            <pb n="4" facs="tcp:33239:5"/>
+            <p>
+               <hi>July</hi> 2. We were ready to decamp; but becauſe that <hi>Newbourg</hi>'s and <hi>Palfi</hi>'s Regiments of Horſe, and the Foot Regiments of <hi>New<g ref="char:EOLhyphen"/>bourg, Wirtemberg</hi> and <hi>Erf<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> as alſo the <hi>Munſter</hi> Regiment of Dra<g ref="char:EOLhyphen"/>goons (which had been left to cover the Baggage and the Artillery, on a report that the Enemy had appear'd in a Party of 500 men) were not yet return'd, and that they joyn'd us in the Camp but towards three in the Afternoon, the March was countermanded, and the whole Army remain'd encamped in the ſame place.</p>
+            <p>
+               <hi>July</hi> 3. That day we decamp'd, and we took our March within an hour of <hi>Creutzenach,</hi> the Camp being on two Lines, between <hi>Creutze<g ref="char:EOLhyphen"/>nach</hi> and <hi>Pretſenheim;</hi> in this laſt place was found a Caſtle, whoſe Juriſdiction is parted betwixt <hi>Lorrain</hi> and a certain Count of <hi>Velon:</hi> that day we alſo work'd in the Conſtruction of the Bridge of Boats, which had gone up the River from <hi>Coblence,</hi> that was done below <hi>Bingen,</hi> a little beneath the fall of the River <hi>Nohe,</hi> which cover'd the ſaid Bridge; another was alſo made cloſe by on the River <hi>Nohe.</hi> General <hi>Thungen,</hi> who was commanded thither with a ſmall Body, cauſing ſome Forts to be rais'd, to ſecure the firſt of the ſaid Bridges. Since that the Bridge of Boats of <hi>Bingen</hi> was taken away, becauſe that his Electoral Highneſs of <hi>Saxony</hi> (whoſe Army was to paſs over it) deſired that it ſhould be remov'd a little higher. Which was done ac<g ref="char:EOLhyphen"/>cordingly, conveying it gently near to the Army, it was thought that it ſhould be fix'd at <hi>Ingelheim.</hi> His Highneſs the Duke of <hi>Lorrain,</hi> not thinking it convenient to have it ſo near <hi>Mayence;</hi> and thereby expos'd to the Enemies inſults.</p>
+            <p>
+               <hi>July</hi> 4. We encamped that day, and a Detachment of 10 Battalions of Foot with a Regiment of Dragoons with 6 Pieces of Cannon and 4 Morters, were ſent to make themſelves Maſters of <hi>Eberbourg,</hi> a Caſtle within three quarters of a mile of <hi>Creutzenach,</hi> where the French had plac'd 150 men, which the Duke of <hi>Lorra<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> with the Ge<g ref="char:EOLhyphen"/>neral Officers, had been to view a little before; but thoſe Troops were countermanded again, after it had been conſider'<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> that the re<g ref="char:EOLhyphen"/>duction of that place would require four days. The ſame day came to the Army <hi>Caraffa</hi>'s and <hi>Commercy</hi>'s two Regiments of Horſe, who had paſs'd the <hi>Rhine</hi> on the Bridge of Boats at <hi>Bingen.</hi>
+            </p>
+            <p>
+               <hi>July</hi> 5. This day the Army decamped, and march'd one hour and half; the Camp was on two Lines, between <hi>Groltzheim</hi> and <hi>Sponheim,</hi> within an hour of <hi>Bingen.</hi>
+            </p>
+            <p>
+               <hi>July</hi> 6. The Army being on two Collumns, march'd during three hours through <hi>Ockenheim</hi> and <hi>Altzheim,</hi> the Horſe on the right, and the Foot on the left, not far from the <hi>Rhine,</hi> and the Baggage being
+<pb n="5" facs="tcp:33239:5"/>incloſed between the Two Collumns, we made an Halt at <hi>Nider-Ingel<g ref="char:EOLhyphen"/>hei<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>:</hi> The Enemy made no great Fire with their Cannon, with which they might have done much Damage, the Squadrons having inſenſibly drawn too near to that place: The Reaſon muſt be, That moſt part of their Cannon was not yet mounted on the Rampert. We did not unbridle all that Night.</p>
+            <p>
+               <hi>July</hi> 7. Our Horſe got a little further from that place before day, to avoid the Enemies Cannon. The Foot came that morning with the Bag<g ref="char:EOLhyphen"/>gage and the Artillery. The Camp was on one ſingle Line; the Re<g ref="char:EOLhyphen"/>giments of Horſe and Foot being intermixed, and fronting the <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ield: The Camp was extended from the <hi>Rhine,</hi> above the City, to a Wood beneath the City; but it wanted much yet from joyning the <hi>Rhine</hi> be<g ref="char:EOLhyphen"/>neath, ſeeing that the Contravallation extends it ſelf near Two Hours and an half. The Enemy made all the day long a great fire with their Cannon, which kill'd during thoſe Two Days but Twelve of our Men, and ſome Horſes. Hitherto they made no Sallies: They poſt<g ref="char:EOLhyphen"/>ed Three ſtrong Horſe-Guards within 2 of 300 Paces of the Counter<g ref="char:EOLhyphen"/>ſcarp, and they were ſeen to work diligently both at the <hi>Rampart</hi> and at the <hi>Glacis.</hi> A Party of Twelve Maſters of the Regiment of <hi>Pelfi,</hi> who were gone to forrage, having no other Arms but their Car<g ref="char:EOLhyphen"/>bines, brought that day to the Camp 18 Priſoners from <hi>Kira,</hi> on the Notice of a <hi>French</hi> Party which was ſtrong of 20 Fool. His Electo<g ref="char:EOLhyphen"/>ral Highneſs of <hi>Saxony</hi> came that Day to the Camp, with his Marſhal of <hi>Camp,</hi> and a ſmall Retinue. The ſaid Elector alighted at the Prince of <hi>Bareith</hi>'s, where the Duke of <hi>Lorrain</hi> went to give him a Viſit. They entertain'd one another for ſome time in private, and after that, in preſence of <hi>Monſieur Flemming,</hi> Marſhal of <hi>Camp;</hi> after which his Electoral Highneſs paſs'd over the <hi>Rhine</hi> at <hi>Ruſſelſheim.</hi>
+            </p>
+            <p>
+               <hi>July</hi> 8. That Day the Foot of <hi>Saxony</hi> paſs'd the <hi>Rhine</hi> in Boats, a<g ref="char:EOLhyphen"/>bove <hi>Mayence.</hi> The Horſe, which till then had encamped ſome time over-againſt <hi>Worms,</hi> was to do the ſame preſently after. That Day there alſo came into the Camp of <hi>Lorrain</hi> Two Regiments of Foot of the Prince's of <hi>Saxony,</hi> another of Horſe being order'd to follow. The Enemy fired greatly their Cannon on the General Quarters, where it did ſome Miſchief, but of no great conſequence: That Day there alſo came into the Camp a great number of Peaſants to work. The Night of the 8th, till the 9th, ſome of the Army of <hi>Lorrain,</hi> who had been commanded, took their Poſt in a deep Valley near to a Mill, and open'd the Trenches within 7 or 800 paces of the Counterſcarp on the Right. Upon this the Enemy ſallied out, and gave an Alarm, but did ſoon retire again.</p>
+            <pb n="6" facs="tcp:33239:6"/>
+            <p>
+               <hi>July</hi> 9, 10, 11. Nothing paſs'd that was conſiderable, except that the Trenches were much advanc'd on the Right Hand. <hi>Monſieur Flem<g ref="char:EOLhyphen"/>ming,</hi> the Camp Maſters Baggage, had almoſt been carried to the Ene<g ref="char:EOLhyphen"/>mies Fort on the <hi>Rhine,</hi> through the Watermens imprudence, but it was ſaved by thoſe of <hi>Heſſe.</hi> The 10th is Highneſs of <hi>Bavaria</hi> name to the Camp for ſome Days; His Highneſs the Duke of <hi>Lorrain</hi> went to meet him on Horſeback, with the Prince of <hi>Commercy.</hi> The Night of the 11th, till the 12th, thoſe of <hi>Saxony</hi> took their Poſt with 8oo Men, near to the Convent of the Nuns, beneath the Town, near the <hi>Rhine,</hi> and opened the Trench.</p>
+            <p>
+               <hi>July</hi> 12. The Trench was carried on very far that Night towards the Left, from that place where the other began, and we began to work about a Redoubt, to ſecure them both. The <hi>Heſſeans</hi> did caſt all that Night from beyond the <hi>Rhine,</hi> with Two Mortar-pieces, Bombs into the City, which caus'd therein a great Fire near to the Caſtle, to<g ref="char:EOLhyphen"/>wards 10 at Night, which, as may be perceived, conſum'd about 8 hou<g ref="char:EOLhyphen"/>ſes, and it was put out about Midnight.</p>
+            <p>
+               <hi>July</hi> 13. The Enemy by Day did ruine that which had been rais'd up by Night at the Redoubts. At the <hi>Lorrainers</hi> Attack they advanced far that Night in the <hi>Vignes</hi> towards the Left. There was a Line of Communication drawn alſo from the Attack on the Left to that on the Right, and they continued to work at the Two Redoubts which had been began. The Enemy made Four falſe Sallies, but preſently retired each time. There were Four Field Pieces conducted into the Appreaches, which are ſometimes us'd with ſucceſs. Thoſe of <hi>Saxo<g ref="char:EOLhyphen"/>ny</hi> puſh'd on their Approaches alſo on the ſide of the <hi>Rhine:</hi> They al<g ref="char:EOLhyphen"/>ſo took their Poſts early in the Morning in the <hi>Grand Charter-houſe,</hi> which is diſtanc'd off 450 Paces from the Counterſcarp, which they found to be abandon'd by the Enemy, contrary to their Opinion: However, they were met with in ſome Houſes about ſome 50 paces di<g ref="char:EOLhyphen"/>ſtance from thence, where they fortified themſelves, above all, in the <hi>Garden</hi> of <hi>Stadian,</hi> where they had met to the Number of 1000 men. They however attempted nothing: That Night ſome Pieces of Can<g ref="char:EOLhyphen"/>non of 8 or 6 pound bullets, were drawn near to the Approaches, which were not made uſe of however before the 10th at Night inclu<g ref="char:EOLhyphen"/>ſively. The Enemy fired fiercely that day on thoſe of <hi>Saxony; Mon<g ref="char:EOLhyphen"/>ſieur,</hi> the Prince <hi>Palatine, Frederick William,</hi> who was come as a Vo<g ref="char:EOLhyphen"/>lunteer in the Camp, was that day kill'd by a Falcon Bullet, at the Head of the Trench, in preſence of the Princes his Brothers, the Prince Electoral, and the Grand Maſter of the <hi>Teutonick Order,</hi> the Bullet having gone through his Head. He was carried from thence
+<pb n="7" facs="tcp:33239:6"/>to <hi>Franckfort,</hi> there to be embalm'd. And becauſe there was a Deſign of altering the Camp, and to form it as it was to remain all along the Siege, the General Quarter of <hi>Lorrain</hi> was diſlodg'd, and that of <hi>Wei<gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>aw</hi> alſo, and it was plac'd a little lower, near to <hi>Prazzen<g ref="char:EOLhyphen"/>heim.</hi>
+            </p>
+            <p>
+               <hi>July</hi> 14. The Prince of <hi>Hanover</hi> commanded with 4000 <hi>Lunenburg<g ref="char:EOLhyphen"/>ers,</hi> in the Approaches of <hi>Lorrain,</hi> which as it had been agreed on, had not been advanc'd that Night: However, there were many at work, to enlarge them, and to put them in condition of Defence: There was alſo Two Redoubts perfected, that were on the Right and the Left. The Enemy began to fire fiercely with their Great and Small Shot; and of this laſt they made whole Vollies all the Night long, eſ<g ref="char:EOLhyphen"/>pecially from the Counterſcarp; yet were there but Two Men kill'd, and Two wounded. They alſo ſometimes gave us Alarms, but al<g ref="char:EOLhyphen"/>ways found our Men in readineſs. The Trenches were enlarg'd alſo on the ſide of the <hi>Saxons,</hi> and ſet in poſture of Defence; but no<g ref="char:EOLhyphen"/>thing was advanc'd beyond that; which could not be done neither, be<g ref="char:EOLhyphen"/>fore the coming of the Elector of <hi>Bavaria,</hi> as I was inform'd by the Prince Elector, who commanded that Night in the Trenches with 1500 men.</p>
+            <p>
+               <hi>July</hi> 15. That Day we began to trace out the Lines of Circumvalla<g ref="char:EOLhyphen"/>tion, to ſecure the Camp towards the Field, and to hinder all ſuccour. There were ſome ſmart Skirmiſhes betwixt the Two Horſe-Guards; Divers were kill'd on both ſides, and amongſt the reſt of our Men was <hi>d'Andlau,</hi> Captain in <hi>Palfi</hi>'s Regiment. The Enemy took divers of our Men Priſoners that were gone for Forrage, who had ventur'd above 8 hours Way from the Camp; the Number is not yet known. The Prince of <hi>Savoy</hi> came from the Camp of <hi>Bavaria</hi> into this: 'Till now the Trenches could not be carried on at the Electoral Attack, but to 450, and that of <hi>Lorrain</hi> to 500 Paces diſtance off the Coun<g ref="char:EOLhyphen"/>terſcarp. The laſt are paſſably well ſecur'd: Every Night there are 4000 men lodg'd in the Trenches; the <hi>Imperialiſts</hi> are there Two Days together, and a Field-Marſhal Lieutenant commands there every night; the <hi>Lunenburgers</hi> are there every Third Night. I believe, that in ſo little time there never was ſo much firing of Artillery from any City as from this; there are every Day above Four or Five Hundred Cannon Shots made: And after all it is to be wondred, that with the great firing there has been yet but Ten Men kill'd. The loſs in the Approaches are alſo very ſlight, and will not reach in both the At<g ref="char:EOLhyphen"/>tacks to above the Number of 40 perſons. Beſides, the Enemy have alſo a conſiderable Number of Pieces in the Counterſcarp. The Night
+<pb n="8" facs="tcp:33239:7"/>of the 15th to the 16th, the Prince of <hi>Saxe Gobourg</hi> was in the Trench, which was alſo carried on with the loſs of but few Men.</p>
+            <p>
+               <hi>July</hi> 16. This Night the Labour of the precedent Nights was fi<g ref="char:EOLhyphen"/>niſh'd, another Redoubt was made, and the Trench was advanc'd a little; The Enemy did inceſſantly give Alarms, and fired continual<g ref="char:EOLhyphen"/>ly their Cannon and Small Shot; They labour'd alſo on a ſmall Work on the Left, that they might more commodiouſly hinder the Approa<g ref="char:EOLhyphen"/>ches. That Night were reckon'd about 30 kill'd and wounded. A Lieutenant who had deſerted the City, brought to us the Platform of it, and ſhew'd us the places where the Enemy had conducted their Mines; He believ'd alſo that the City was attack't in its weakeſt part, eſpecially on the <hi>Lorrainers</hi> ſide. He further ſaid, That the Garriſon conſiſted of 8000 Men, and that it was reſolv'd to defend it ſelf to the laſt extremity, and that it would make a very great Sally upon us, ſo ſoon as we were got a little nearer.</p>
+            <p>
+               <hi>July</hi> 17. The <hi>Saxon</hi> Horſe, conſiſting of 6 Regiments, namely the Regiment of Guards, Field Marſhal, Baron <hi>Ilato,</hi> of the Prince <hi>Frede<g ref="char:EOLhyphen"/>rick, Promnitz,</hi> and a Regiment of the Dragoons under Collonel <hi>Mink<g ref="char:EOLhyphen"/>witz,</hi> paſs'd over the Bridge of Boats, belonging to the Imperialiſts, becauſe that of <hi>Saxony</hi> was not yet perfected. They lodg'd themſelves in thoſe Poſts which had been appointed them. His Electoral High<g ref="char:EOLhyphen"/>neſs of <hi>Bavaria</hi> came alſo at Night in the Camp; the Foot which he brings is from 5000 to 5500 Men; he paſs'd the <hi>Rhine,</hi> in the Night, and this day on <hi>Pontons,</hi> a little above the Bridge. The Elector of <hi>Bavaria</hi> lodg'd in Perſon in the ſame Village where is the Elector of <hi>Saxony.</hi> The work of the Trench was alſo carried on very far this Night. The Prince of <hi>Hanover</hi> Commanded there, and there were reckoned 12 kill'd and wounded.</p>
+            <p>
+               <hi>July</hi> 18. Thoſe of <hi>Heſſe</hi> gave the firſt time 2000 of their Men for the Approaches, who work'd very well that Night about them, and they ad<g ref="char:EOLhyphen"/>vanc'd within 250 or 300 paces of the Counterſcarp. The Enemy fired extraordinarily all that Night, yet it is to be wondered, that the loſs of our Men did not exceed the number of 26 kill'd and wounded.</p>
+            <p>
+               <hi>July</hi> 19. The <hi>French</hi> was advanced a little another way alſo. We be<g ref="char:EOLhyphen"/>gan to raiſe a Battery. The Enemy fired furiouſly all the Night long: the loſs of our Men amounted to 28 kill'd and wounded. The Enemy ſet fire themſelves to an Houſe that was near the Gate. The <hi>Saxons</hi> Bridge of Boats was finiſhed that day. That Night we began again to work at the Electoral Attack. The Elector of <hi>Bavaria</hi> paſs'd the whole Night in the Trenches, with a deſign of poſting himſelf near an Houſe at 8 pa<g ref="char:EOLhyphen"/>ces
+<pb n="9" facs="tcp:33239:7"/>diſtant from the <hi>Charter-Houſe,</hi> which till then had been the place of Arms; thoſe that were commanded for that deſign gave back a lit<g ref="char:EOLhyphen"/>tle, perceiving the Enemy to advance in great numbers towards them, which cauſed ſome confuſion, ſo that our own Men began to ſhoot from the Approaches on thoſe that were Commanded. His Electoral High<g ref="char:EOLhyphen"/>neſs of <hi>Bavaria,</hi> and the two Camp Marſhals, <hi>Caprara</hi> and <hi>Flemming,</hi> and General <hi>Stenan</hi> got off luckily without being wounded, after they had a long time receiv'd the Enemies and our own ſhot. Some days ſince a certain Captain was ſeis'd, who is a <hi>French</hi> Engineer, who endea<g ref="char:EOLhyphen"/>vour'd to get into the Town, whoſe Name is <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> 
+               <hi>Cormaellan,</hi> of <hi>Mount Royal.</hi>
+            </p>
+            <p>
+               <hi>July</hi> 20 and 21. Theſe two Nights the Trenches were very much ad<g ref="char:EOLhyphen"/>vanc'd at the Electoral Attack. They were advanc'd to 300 paces of the Counterſcarp. There were the firſt Night 60 kill'd and wounded, and the laſt, about 50. We continu'd to work at the Battery on the <hi>Lorrainer</hi>'s ſide, it is to be mounted with 30 Cannons. The Trenches were enlarg'd, and the Lines were carried on both on the Right and the Left, to make a larger Front before the Town; by that we draw nearer to the point of the Counterſcarp, from which we have yet 150 paces diſtant. Theſe two Nights there were reckoned about 40 kill'd and wounded. The Enemy, as he was wont, did continually ſire both his great and ſmall Shot towards both the Attacks. They fire not ſo furiouſly now on the ſide of the Champion: there were for divers Nights together, ſome Deſerters of our Camp that went into the City.</p>
+            <p>
+               <hi>July</hi> 22. Three <hi>French</hi> Officers ſtole at open day from our Camp into the Town. The work of the Trenches was a little retarded this Night at both the Attacks, through the violent Rain which fell, however the labour of the two precedent Nights were accom<g ref="char:EOLhyphen"/>pliſhed at the Electoral Attack; and at the <hi>Lorrainers</hi> Attack, there was a little work done at the great Battery. The firſt Night we had about Nine kill'd and wounded, and the laſt Night, about Four<g ref="char:EOLhyphen"/>teen. Thoſe of <hi>Heſſe</hi> did caſt all the Night long, from the o<g ref="char:EOLhyphen"/>ther ſide of the <hi>Rhine,</hi> Bombs in the Town, out of 4 Mortar-pieces. The Enemy gave that Night a Sign in kindling a Fire on the great Tower; we conjectur'd it was to give <hi>Duras</hi> notice of the Three Officers getting in, which were believ'd to be conſiderable Perſons. This day we had a Deſerter from the Town, who was a <hi>Lorrainer</hi> by Birth, who confirm'd the relation which the others had given, <hi>viz.</hi> that the Enemy had reſolv'd to defend themſelves to the laſt extremi<g ref="char:EOLhyphen"/>ty; that they had made divers Mines, which are all diſcover'd; that they wanted nothing; that Wine was brought in abundance to the
+<pb n="10" facs="tcp:33239:8"/>Souldiers, even on the Ramparts; that there were always Six Batta<g ref="char:EOLhyphen"/>lions on the Guard. It has been concluded at the Electoral Attack, that every day, 3500 Men ſhall ſerve in the Trenches, of which his E<g ref="char:EOLhyphen"/>lectoral Highneſs of <hi>Saxony</hi> furniſhes a little more than the three fifth parts. At the <hi>Lorrainers</hi> Attack, 4000 ought to be there every day, which is regulated in this manner, That the Imperialiſts ſhall furniſh every third day 5000 Men, the <hi>Lunenburgers</hi> 4000, and the <hi>Heſſians</hi> 3000, of which, thoſe that are deſign'd for the <hi>Lorrainers</hi> Attack, incamp already on this ſide the <hi>Rhine.</hi> The greateſt part of the Ge<g ref="char:EOLhyphen"/>nerals believe that the great Battery will not be ready in 8 days time yet. A <hi>French</hi> Party, of about 400 Foot, has been ſeen not far from <hi>Bingen;</hi> it is thought that they ſeek to poſt themſelves in the Neighbourhood, to incommode our Forragers.</p>
+            <p>
+               <hi>July</hi> 23. We advanc'd but little that day, by reaſon of a great Rain. At the Elector's Attack the Trenches were carried on a little, and the Trevaux were more ſecur'd: Some Lines alſo were carried on at the Attack of <hi>Lorrain,</hi> on the Right and Left, to give a larger Front, they work alſo on the Battery and on the Ditch; we had in the Lines one killed and three wounded, and at the Battery two killed and five wounded.</p>
+            <p>
+               <hi>July</hi> 24. Two <hi>French</hi> Officers were kill'd out of the Camp, that deſigned to get into the Town; Five more were purſued, but could not be taken; a Party of the Enemies, of 300 Men on Horſe-back, were ſeen on <hi>Creutzenach</hi>-Road. A Citizen who had been ſent by the Governour of the Town with Letters to the Marſhal of <hi>Duras,</hi> brought them to the Duke of <hi>Lorrain,</hi> the moſt ſecret Letters were writ in Characters, conceal'd in a Braſs Button which button'd up his Breeches, their Contents are not yet known, there being no body found in the Army that can unravel them. This Night, at the Electo<g ref="char:EOLhyphen"/>ral Attack, the Trenches were carried on towards the Left of the Ci<g ref="char:EOLhyphen"/>tadel with very little loſs; two ſmall Pieces were mounted alſo, with which the Enemies Horſe-Guard was gall'd, which upon that retir'd into the Town. The Enemy did Palliſado the ſmall Works, and thoſe Ditches which they had in the <hi>Stadian</hi> Garden. At the <hi>Lorrainers</hi> Attack, a Line was drawn on the Right, round the Works, and there was much labouring about the great Battery alſo. The Let<g ref="char:EOLhyphen"/>ters which have been found on the above-mentioned Citizen, con<g ref="char:EOLhyphen"/>tain an Advice from the Marqueſs of <hi>
+                  <g ref="char:V">Ʋ</g>xelles</hi> to the Marſhal <hi>Duras,</hi> That the Garriſon is compos'd but of 6000 Men, amongſt which are numbred above 1800 ſick and wounded, and that the reſt are ex<g ref="char:EOLhyphen"/>treamly fatigated, reſting neither Night nor Day, ſo that he ſhall be
+<pb n="11" facs="tcp:33239:8"/>forc'd to ſurrender the place to the <hi>Germans</hi> if he is not ſpeedily reliev'd; deſiring, after that, the Marſhal <hi>Duras,</hi> to let him know with the ſooneſt the Kings pleaſure, on that ſubject.</p>
+            <p>
+               <hi>July</hi> 25. Another Line was traced on the Left, we alſo work'd very hard at the <hi>Lorrainers</hi> Battery.</p>
+            <p>
+               <hi>July</hi> 26 Fifteen large Cannon were plac'd on the <hi>Lorrainers</hi> Battery, and the ſaid Battery was ſecur'd with Two Lines newly drawn.</p>
+            <p>
+               <hi>July</hi> 28. Ten Pieces more were placed on the ſame Battery, very large, as alſo proportionably of Amunition. The Pieces were plac'd in the Embracements, and a new Redoubt was traced out on the Right 60 paces diſtant from the Foot of the Glacis. Thirty Barrels of Powder have been drawn out of two Mines, which have been diſco<g ref="char:EOLhyphen"/>ver'd near the great Battery of the Imperialiſts, by the means of a <hi>French</hi> Miner who made his eſcape out of the place to come to us. Our Army was a little leſſen'd, by a Detatchment of 6000 Horſe, which were ſent towards <hi>Heidelberg,</hi> under General <hi>Dunewald</hi>'s Com<g ref="char:EOLhyphen"/>mand. This Day Marſhal <hi>Duras</hi> came before <hi>Heidelberg</hi> with 1500 Men, and at Night they Aſſaulted the Town, and enter'd the Sub<g ref="char:EOLhyphen"/>urbs, endeavouring to Poſt themſelves in the new Church of St. <hi>Ja<g ref="char:EOLhyphen"/>cob,</hi> but they were vigorouſly repulſed with the loſs of 350 Men.</p>
+            <p>
+               <hi>July</hi> 29. From the <hi>Lorrainers</hi> Attack, we began to beat the Coun<g ref="char:EOLhyphen"/>terſcarp, and in a ſhort time the Cannon was diſmounted, the Em<g ref="char:EOLhyphen"/>bracements were ſo ruin'd that the Enemy were forc'd to take in the ſaid Pieces on the Neighbouring Baſtion, on the Right, whence they fire at this preſent with 4 Cannons. This Night we laboured hard on the new Redoubt, and a new Line was traced on the Left, the better to get into the Ditch, near the Gate.</p>
+            <p>
+               <hi>July</hi> 30. They fired extreamly at the <hi>Lorrainers</hi> Battery this Morn<g ref="char:EOLhyphen"/>ing, and by that means, the Enemy were forc'd to remove further off their Pieces. They made good uſe of their time however, and after that ours had made their diſcharge, they fired hard from the Baſtion on the Right Hand, on our Battery, and our Approaches. This Night the great Redoubt was put in a good condition on the left, on which the Enemy Sallied about 60 ſtrong, but were ſoon repulſed with the loſs of 9 Men, amongſt which was an Officer, we reckon'd alſo that Night upon many kill'd and wounded. Our Miners began this Night their Counter-mines, two able <hi>Spaniſh</hi> Engineers were that Night kill'd.</p>
+            <p>
+               <hi>July</hi> 31. We fired not ſo hard from the <hi>Lorrain</hi>'s Battery as we had done the two precedent Days, becauſe of the heat; on the con<g ref="char:EOLhyphen"/>trary,
+<pb n="12" facs="tcp:33239:9"/>the Enemy fired more than before. There was no great firing that Night on either ſide with the Cannon, but the ſmall Shot was the more fierce on the <hi>Electoral</hi> Attack, while they were taking a new Poſt. We loſt divers of our Men in that Action, who be<g ref="char:EOLhyphen"/>hav'd themſelves bravely. Count <hi>Reuſs,</hi> Major <hi>Sweinitz,</hi> and Captain <hi>Altback,</hi> were wounded. A Dragoon of the Regiment <hi>Laude,</hi> who ſurrender'd himſelf that Day, told us that the Ground of the Glacis was fill'd with Bombs, cover'd over with Boards, with long Nails, whoſe points were hid with earth, and that all the angles of the Counterſcarp were undermin'd.</p>
+            <p>
+               <hi>Auguſt</hi> 1. Two Towers that were ſituated on the leſt were beaten with our Cannon from the Battery of <hi>Lorrain,</hi> all the Day long, not without Succeſs. The Enemy did alſo fire his Cannon-on us from the Works. This Night thoſe of <hi>Heſſe</hi> flung into the Town from beyond the <hi>Rhine</hi> divers Bombs. The Enemy did alſo make a vigorous Sally on the <hi>Lorrain</hi> Approaches, but were repulſed by the <hi>Lunen<g ref="char:EOLhyphen"/>burgers,</hi> who were that Night on the Guard; we loſt above 100 Men in this Action. The Enemy drew a Line alſo of Communication to the Glacis. We likewiſe did draw a great Parallel from the Re<g ref="char:EOLhyphen"/>doubt on the Left to that on the Right.</p>
+            <p>
+               <hi>Auguſt</hi> 2. The Cannon began to play again from the <hi>Lorrain</hi> Bat<g ref="char:EOLhyphen"/>tery by break of Day, on the Works both on the Right and Left, which was continued till Night with good ſucceſs; there was alſo ſlung from Seven Morter-pieces divers Bombs into the Coun<g ref="char:EOLhyphen"/>terſcarp. About Noon our Cannon had beaten down the Roof and the beſt part of the top of the round Tower, which is on the Left of the Cathedral, whence our Men had received great damage. The ſquare Tower near St. <hi>Stephen</hi>'s Church, a little higher than the round Tower, was for the moſt part ruin'd alſo. The Ramparts and Works on the Right were alſo endamag'd. We could plainly ſee the Enemy work on the Rampart, ſo ſoon as we had diſcharg'd our Cannon, and that they began to entrench themſelves there. The Parallel-Line was this Night finiſhed, and thoſe of <hi>Heſſe</hi> mounted Six Pieces more of 24 Pound Buliet; there was nothing elſe remark<g ref="char:EOLhyphen"/>able that paſs'd: Neither did the Enemy fire but their Muskets and ſmall Pieces; ours did caſt ſome Bombs and Carcaſſes into the Town, ſo did thoſe of <hi>Heſſe</hi> from beyond the <hi>Rhine,</hi> which caſt divers Bombs in the Enemies out-works. We had that Night Five killed and Twelve wounded on our ſide.</p>
+            <p>
+               <hi>Auguſt</hi> 3. The Cannon play'd from the Battery of <hi>Lorrain</hi> that Day, on the great Tower near the Gate <hi>Gais,</hi> and on the Three
+<pb n="13" facs="tcp:33239:9"/>Baſtions, St. <hi>Alexander,</hi> St. <hi>Boniface,</hi> and St. <hi>Martin,</hi> to make a breach, but we fired not ſo fiercely as the Day before. The Enemy fired very vigorouſly all that Day with their Muskets, and killed and wounded divers of our Men; they alſo ſhot ſome Vollies of Cannon in<g ref="char:EOLhyphen"/>to the Camp, and towards the Approaches, but with no effect. This Night ours encompaſs'd the Redoubt on the Left with Palliſadoes, and finiſhed the Ditch before the Battery. The Cannon this Night was more quiet on both ſides, but the Enemy fired continually their Muskets, we alſo caſt ſome Bombs into the Town. Colonel <hi>Erfa</hi> was wounded in the right arm by a piece of our Shells.</p>
+            <p>
+               <hi>Auguſt</hi> 4. We continu'd this Day as we had done yeſterday in bat<g ref="char:EOLhyphen"/>tering the three foreſaid Baſtions, and the great Tower near to the Gate <hi>Gau,</hi> but not very much; we had Two Deſerters, who told us that the Enemies were carrying on a Mine towards the <hi>Lorrain</hi> Battery. This Night a great Parallel Line was drawn towards the Glacis. From the Imperial Attack we caſt all this Night long a great number of Bombs into the Town, to diſturb the Ene<g ref="char:EOLhyphen"/>my in their labours, there was alſo ſmart firing of ſmall ſhot on both ſides, for all that the <hi>Lunenburgers</hi> that were that Night on the Guard in the Trenches had but one killed and Ten wounded.</p>
+            <p>
+               <hi>Auguſt</hi> 5. We began again early in the Morning to batter from the <hi>Lorrain</hi> Battery the three Baſtions and the above-mention'd Tower, which was continu'd all Day till Night. The <hi>French</hi> began about Noon to play off their great Cannon on our Batteries and Ap<g ref="char:EOLhyphen"/>proaches, from a little Fort, which draws near to the top of the Caſtle, they caſt alſo divers Bombs, by which we had above Forty dead and wounded. We alſo did caſt, not only all Day but all Night alſo, Bombs on the Fort, and all other places where there was any proſpect of indamaging the Enemies Works. The ſmall ſhot was alſo increas'd this Day on both ſides more than ever. A certain De<g ref="char:EOLhyphen"/>ſerter from the Town, ſaid that the Enemy had finiſh'd the Mine, which they had began to conduct towards our Trench and Battery, and that they were ready to ſtore it with Powder. Moreover, at the Imperial Attack have been brought to perfection the Two new Lines, which are about 25 Paces from the Glacis. This Night has been trac'd the great Battery at the Electoral Attack, which contains 887 Paces in its Circumference, and which is to be mounted with 36 Pieces of large Bores. This Battery is made with two inward Angles, in that place which is advanc'd before the laſt place of Arms. The middle of the Battery beats on the Ravelin of the Citadel; our Cannon is to batter in Flank and Front the Enemies
+<pb n="14" facs="tcp:33239:10"/>Defences, which anſwer to our Attack; after having perfected a Line of Traverſe, with double Baſtions to cover our Left Flank, we began to open a Ditch and to raiſe higher the Battery. The deſign of it conſiſts of 12 Foot thick near the Ditch, 6 at the Berne, 25 at the Platform, and 15 behind.</p>
+            <p>
+               <hi>Auguſt</hi> 6. We began again early in the Morning to Fire our Can<g ref="char:EOLhyphen"/>non, and to caſt Bombs from the Imperial Attack, where the Two Generals, <hi>Souches</hi> and <hi>Wallis,</hi> with the Prince of <hi>Saxen Weiſſenfels,</hi> this Day Commanding, the Enemy have done the ſame. They made two vigorous Sallies betwixt Twelve and One, under the favour of a great Rain, with 300 Horſe and 1500 Foot; they ſlided along from both the Gates of <hi>Altmunſter</hi> and <hi>Gau</hi> towards our Men, Attacking the firſt Line with great fury, of which they eaſily made themſelves Ma<g ref="char:EOLhyphen"/>ſters, it being not yet in poſture of Defence, nor Lin'd with Small ſhot. Our Men that were in the more remote Lines were diligent, got out of the Trenches on the Right and Left, and vigorouſly drove back the Enemy after a large half hours Combat, with great loſs; ſo that for the moſt part they ran away on their Feet and Hands, what was found of the Enemy at the head of the Trenches were preſently cut to pieces, the Soldiers Rage going ſo far, that they ſet ſome Heads that had been cut off on Spikes before the Camp, and cut Leather Thongs out of the Skins of their Backs; which was afterwards for<g ref="char:EOLhyphen"/>bidden by his Highneſs the Duke of <hi>Lorraine;</hi> there was great Firing on both ſides of Cannons and Bombs during the Combate. The num<g ref="char:EOLhyphen"/>ber of killed and wounded on our ſide amounts to 300 Men, amongſt the Dead are the Aid General and Major of the Granadeers, the Baron <hi>Breſſee,</hi> who was ſent ſome time ſince to his Electoral Highneſs of <hi>Brandenburg,</hi> Captain <hi>Sicking</hi> Canon of <hi>Mentz,</hi> as alſo <hi>Lunati</hi> Captain of the Granadeers. After this Combat, ſome of the Enemies wounded Officers that had remain'd on the place, ask'd for Quarter from our Men. His Highneſs the Duke of <hi>Lorrain</hi> having been inform'd that the ground from the head of the Trenches to the top of the Glacis was cover'd with a great number of <hi>French</hi> Bodies Dead and Dying; the laſt of which made ſuch Cryes and Lamentations as mov'd Compaſſion. His Highneſs the Duke of <hi>Lorrain</hi> ſent a Drummer to the <hi>French</hi> at <hi>Mentz,</hi> but they laught at it, asking whether we had not ſomething elſe to deſire? which oblig'd our Musketeers to diſpatch the wounded Officers. The Governour did this out of fear, that the ſight of ſo many Dead and wounded ſhould imprint ſome coldneſs on the reſt of the Garriſon; wherefore he thought it not fit to Correſpond to the Duke of <hi>Lorrain</hi>'s Humanity, chuſing rather to leave his Wounded
+<pb n="15" facs="tcp:33239:10"/>and Dying Men amongſt the Dead without help, than to ſhew ſo ſad a Spectacle to the Garriſon and Towns-men. But through a Chriſtian Charity, all thoſe that have been found to the very foot of the Glacis have been taken up and Buried. The number of the Dead and woun<g ref="char:EOLhyphen"/>ded of the Enemy ought to amount to 500 perſons, according to the Deſerters reports, and the Liſt which they have brought to us thereof. Amongſt the firſt is ſaid to be a certain Lieutenant Colonel who was highly conſider'd amongſt them, and divers other Officers of the Firſt Rank. There was but little firing this Night on either ſide, only ours did caſt Bombs into the Town. After this the Enemy made ſome ſhew of Sallying forth again, as they did effectively, with but few Men, out of the Counterſcarp, doubtleſs with a deſign to carry away the Dead and Wounded which they found in great numbers heap'd up to<g ref="char:EOLhyphen"/>gether round the Palliſado's, but they were again repuls'd with the loſs of ſome kill'd and wounded. Some of our Musketeers going out of the Trenches by ſtealth to ſtrip ſome of the Dead remaining on the place, were made Priſoners by the Enemy. There has been digg'd up at the <hi>Electoral</hi> Attack, on the Right of the firſt Redoubt a large Well, whence a Gallery is to be advanc'd under ground, both to work about ſome Mines, and to give vent to thoſe which the Enemy may have made under the <hi>Glacis.</hi> The Ditch of the Battery has been advanc'd ſome paces this Night, but in the Morning it was found that they had diſtanc'd themſelves too far from the Right Line, and that conſequently that work was expos'd to the Enemy, becauſe it might be man'd by them from their Defences.</p>
+            <p>
+               <hi>Auguſt</hi> 7. This Day was but ſmall Firing; on either Side, which has happen'd on our ſide, becauſe that we were buſie in Raiſing a New Battery, yet the Enemy Fired continually with their Small Shot all Night, and we caſt divers Bombs into the Town. The <hi>Lunenburgers</hi> who were this Night in the Trenches loſt ſome Officers, and private Centries. Some of the Enemies were made Priſoners, that were endeavouring to carry off ſome of their Dead. A new Line has been drawn on the left of the Imperial Attack; we have labour'd Day and Night about the new Battery; at the Electoral Attack, the Wells have been made deeper which were made for the Mines, conveying out of them the Water which was in them.</p>
+            <p>
+               <hi>Auguſt</hi> 8. This day no more than yeſterday has there been but little Firing on both ſides, the Reaſons on our ſide were, that the Batteries and the Mines were not yet brought to perfection. A Deſerter who came this day to us confirms the great loſs that the Enemy has ſu<g ref="char:EOLhyphen"/>ſtain'd in the Sally which they made the 6th. paſs'd: He has alſo diſ<g ref="char:EOLhyphen"/>cover'd
+<pb n="16" facs="tcp:33239:11"/>to us all the Mines of the Enemy, and to what places they had been Conducted. This Night another Redoubt and Battery has been rais'd at the head of the Gallows, and a Line has alſo been drawn; we caſt all night long Bombs and Carcaſſes into the Town. On the contrary, the Enemy Fired fiercely their ſmall ſhot from the Ramparts and the Counterſ<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>arp. They alſo made a ſmall Sally on the Imperialiſts, who ſoon forc'd them to Retreat with the loſs of 20 Men, though of our ſide we had not a few kill'd and wounded that Night. His Electoral Highneſs of <hi>Bavaria</hi> paſs'd all the Night long in the Trenches, and has caus'd a great Redoubt to be trac'd in a certain place which is very convenient to cover and defend that Battery which has been nam'd St. <hi>Emanuel,</hi> and which is to be of 50 Paces in length on two ſides; the Work of the Battery has been carried on alſo, and there has been rais'd at the left of the Trench a Traverſe, behind which the Guard of Horſe of the Electo<g ref="char:EOLhyphen"/>ral Attack is to be Poſted.</p>
+            <p>
+               <hi>Auguſt</hi> 9. This Day our Cannon play'd ſmartly all along, principally on the Tower of the Gate <hi>Gau,</hi> and in the Night divers Bombs were caſt into the Town. The Enemy did likewiſe continually fire with their ſmall ſhot all the Night long, and caſt alſo ſome Bombs into our Camp. We labour'd hard to ſet in defence the newly erected Battery; the Lines on the Right of the Gibbet were finiſhed alſo, and new Lines were carried on towards the Glacis of the right and left. We conti<g ref="char:EOLhyphen"/>nued at the Electoral Attack to work on the Battery and Redoubt be<g ref="char:EOLhyphen"/>fore mention'd, and on the Lines of Communication alſo.</p>
+            <p>
+               <hi>Auguſt</hi> 10, 11, 12, 13, and 14th. Theſe Days there paſs'd no great Matters on either ſide; We at the Imperial Attack joyn'd the Lines that were newly rais'd, we alſo made ſome Embraces for 8 Pieces on the New Battery, 6 of which are to batter the Enemies Baſtions, and batter in flank that Work which the Enemy newly rais'd near to the Gibbet. There was a Well alſo made, a little more advanc'd than the Firſt, and by that means we have carried on our Work to the Palliſa<g ref="char:EOLhyphen"/>does of the Counterſcarp, where we happily have diſcovered ſome of the Enemies Mines; all that Work has coſt us but very few Men, no more than to the <hi>Lunenburgers</hi> who loſt not 10 Men, though that on the 13th at Night when they did Duty in the Trenches, they for<g ref="char:EOLhyphen"/>warded much their work by Sapping: The 14th at Night the Great Tower near the Gate <hi>Gan</hi> was beaten down with the Cannon from our New Battery. Divers Deſerters are come into our Camp, but on the other hand, divers of ours, above all, of the Elector of <hi>Bavaria</hi>'s Guards, and divers <hi>French</hi> went over to the Enemy. On the 10th the above-mention'd Work was continu'd at the Electoral Attack. This
+<pb n="17" facs="tcp:33239:11"/>Night the <hi>French</hi> quitted the Houſe of <hi>Stadian,</hi> which is out of the Town, and its Garden, after they had burnt it: It was obſerved in their Retreat, that a ſmall Body deſcended by the Cover'd way towards the water, 'tis probable to favour the Retreat of the reſt. The 11th the St. <hi>Emanuel</hi>'s Redoubt was finiſh'd, the Ditch was alſo advanc'd, and we began to raiſe the <hi>Parrapet</hi> higher, and to make Platforms, the Miner being already got far under ground, has advanc'd ſome paces under the <hi>Glacis.</hi> Two Maſters of Fire works being got to us from the Town, Confirm'd that the number of kill'd and wounded encreaſes much, that the Garriſon was much decreas'd, and that the Governour expreſs'd a great impatiency for Succour. That the Beſieged did no longer take the <hi>Bavarian</hi> Attack to be feign'd, ſeeing that they al<g ref="char:EOLhyphen"/>ready perceiv'd it very much advanc'd towards them, which had made them reſolve to work a-new on the Mines of the Citadel, and in re-in<g ref="char:EOLhyphen"/>forcing with more Men the Poſt thereabouts. The 12th His Electo<g ref="char:EOLhyphen"/>ral Highneſs's Bridge of Boats was taken away from the Lines of Cir<g ref="char:EOLhyphen"/>cumvallation, which is to be laid a little above the Village <hi>Weiſſenau.</hi> His Electoral Highneſs of <hi>Bavaria,</hi> beſides the ordinary Work<g ref="char:EOLhyphen"/>men, has Commanded a 1000 more to Raiſe the Battery, whom he cauſes to be Paid, he remain'd all this Night in the Trenches, becauſe that a Deſerter had ſaid that the Enemy would attempt a Sally; He caus'd the Poſts to be reinforc'd for that reaſon, but the Enemy firing continually, did not not diſturb the ſaid Labourers by any Sally. The 13th We advanc'd with the Ditch and the Parrapet through theſe La<g ref="char:EOLhyphen"/>bourers means to that place of the Battery which had been deſign'd; The Right Flank of it was covered with a treble row of Gabions a<g ref="char:EOLhyphen"/>gainſt the Iſland which the Enemy ſtill poſſeſſes on the other ſide of the <hi>Rhine,</hi> and we have drawn from the ſaid Flank a Line of Communica<g ref="char:EOLhyphen"/>tion, which joyns the Redoubt call'd St. <hi>Margarets.</hi> The 14th There was made on the Right of the Battery 18 Embraces; we alſo deſign'd to <gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap>nk the Ditch 14 Foot deeper, and to Raiſe the Battery by 12. The Work of the ſapping towards the Glacis of the two advanced Poſts has <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>een continued, and in the Front ſome cover'd Lines have been finiſhe<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to ſecure our felves the better againſt the Enemy. His Electo<g ref="char:EOLhyphen"/>ral Hig<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>neſs of <hi>Bavaria</hi> Commanded alſo that the Trenches ſhould be Re-inforced, in the apprehenſion that it being St. <hi>Lewis</hi>'s Day, the <hi>French,</hi> according to their Cuſtom, might attempt ſomething that Night or the next in honour of their King's Name. Chains have alſo been laid, and an Eſtachado made on the <hi>Rhine</hi> a little above the Town that no ſuccour ſhould get into it by Water.</p>
+            <pb n="18" facs="tcp:33239:12"/>
+            <p>
+               <hi>Auguſt</hi> 15. Prince <hi>Veldents</hi> was greatly wounded after Dinner with a Musket ſhot. We continu'd at the Electoral Attack to Raiſe the Battery and to make more Embracings, the work of the laſt has been carried on to 40 Paces on each ſide, ſo that on the Right it is advan<g ref="char:EOLhyphen"/>ced to the <hi>Glacis.</hi> At the <hi>Lorrain</hi> Attack we have not only begun this Night to draw the Parallel Line, but to Raiſe a new Battery alſo, which coſt them 40 Men killed and wounded. The Cannon of the Great <hi>Lor<g ref="char:EOLhyphen"/>rain</hi> Battery play'd not ſo ſiercely as before, that we may work with more ſecurity in the Mines; yet have they with their ſmall Battery Diſmounted the Enemies two Cannons which they had planted on the Gibbet, of which great part has been beaten down, and by that means caus'd the Enemies Horſe, that had poſted themſelves there, to Diſlodge. Some <hi>French</hi> Deſerters, among which is found a Horſe<g ref="char:EOLhyphen"/>man, who ſay that the Governour having had Advite that the laſt night our Men would attempt an Aſſault on the Counterſcarp, he had Commanded thither all the Granadeers with 4 Men of each Company, and that he had caus'd to be carried thither 500 Granadoes, but that they had been Fired about Eleven at Night by one of our Bombs which had fallen there, and had made ſuch a havock that all flew into the Air. The ſame Deſerters add, that there are above 4000 reckon'd to be Wounded and Sick in the Town, and that the Governour had Orders to hold out to this Day, but that afterwards he was to attempt a good Capituiation; that upon that the Governour had forbid any more Firing of the Cannon, nor caſting of Bombs without particular Orders: wherefore for this Reaſon they of the Town had not Fired above 10 Cannon-ſhot a day, nor caſt above 8 Bombs in 8 Days time; above all, to kill no Dog neither within nor without the Town: the Reaſon was, that they believ'd that a <hi>Jewiſh</hi> Woman came in and out frequently under the ſhape of a Dog.</p>
+            <p>
+               <hi>Auguſt</hi> 16 Laſt Night about 8 of the Clock the Enemies Cannon began to play very hard, which has been continu'd to this Morning. A certain Deſerter who came this day to us, Confirms that there are a great number of Officers and Common Centries wounded in the Town, that our Bombs and Carcaſſes did a world of damage <gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap> the Enemies Defences, eſpecially in the cover'd way, and t hat the Coun<g ref="char:EOLhyphen"/>terſcarp had been reinforc'd with M<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap>, ſearing every moment an Aſ<g ref="char:EOLhyphen"/>ſault. The two laſt Redoubts were this Night inclos'd with Palliſa<g ref="char:EOLhyphen"/>does, at the <hi>Electoral</hi> Attack; 20 Cannons have alſo been Planted on the Great Battery making the Embracements, 2 pieces of Cannon being Planted againſt the Champion. All the Night was employ'd in For<g ref="char:EOLhyphen"/>tifying the Parrapet of the Parallel Line at the <hi>Lorrain</hi> Attack, which
+<pb n="19" facs="tcp:33239:12"/>had been drawn the Night before, and in enlarging the Trenches; Digging in the Earth a great Veſſel full of Ancient Medals was found.</p>
+            <p>
+               <hi>Auguſt</hi> 17. This Day divers Deſerters came into the Camp from the Town, who according to the others Relations confirm, that the continual Labour they were put to had forc'd them to do ſo, That the Governour did inceſſantly Encourage the Garriſon to a vigorous Deſence; aſſuring them that he would defend himſelf to the laſt extremity. That there had been a noiſe in the Town, that the Ar<g ref="char:EOLhyphen"/>tillery of the <hi>Lorrain</hi> Attack was removing to the Electoral Attack, becauſe that we were not ſufficiently provided with great Cannon to batter the Town. That beſides, it had been ſpread about in the Town to put a ſtap to the Souldiers Deſertion; That the Deſerters were very ill treated in the Camp, ſo far as to refuſe them Bread for their ſubſiſtence; That they were rifled and ill treated, and that they even put to death in the Camp all Perſons that ſurrendred them<g ref="char:EOLhyphen"/>ſelves there, and that not one could yet get a free Paſſage, nor avoid the Beſiegers fury. Upon this Report Major General <hi>Werner</hi> was commanded to cauſe all the Cannon of the <hi>Lorrain</hi> Battery to fire at the ſame time that thoſe of the Electoral Attack ſhould be diſ<g ref="char:EOLhyphen"/>charged. The Sereniſſime Duke of <hi>Lorrain</hi> having been inform'd of the falſe Rumours which the French Officers did ſpread abroad to affrighten the Souldiers, thought fit to undeceive them of that falſe impreſſion; cauſing divers Bills to be writ, which were by an inven<g ref="char:EOLhyphen"/>tion ſhot into the Town, which contain, that all Deſerters were to expect a kind Treatment, and like unto that which was us'd towards thoſe who had already paſs'd into the Camp, aſſuring them, that far from ill treating thoſe that would retire, a free Paſſage was gi<g ref="char:EOLhyphen"/>ven them, and wherewith to go forwards under good Paſſes. <hi>M<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ſter,</hi> Colonel of the Dragoons of the Troops of the <hi>Wic. Wurizbourg,</hi> killed himſelf this morning in his Bed, accidentally touching one of his Piſtols which he had laid by him. This night 16 Pieces more of Cannon of large bore have been mounted at the Electoral Attack on the great Battery, opening at the ſame time the Embraſings. The Work at the <hi>Lorrain</hi> Attack has not been advanc'd any further, 15 Souldiers were killed, and 23 wounded.</p>
+            <p>
+               <hi>Auguſt</hi> 18. We began at ſix this morning to batter with 36 Pieces of Cannon from the Electoral's great Battery, the high De<g ref="char:EOLhyphen"/>fences of the Town and Citandel, in the preſence of his Electoral Highneſs of <hi>Bavaria,</hi> and of many other Generals, and divers Bombs have been alſo caſt into it; which has obliged the Enemy to draw back their Cannon. This was immediately followed at the <hi>Lorrain</hi>
+               <pb n="20" facs="tcp:33239:13"/>Battery by the Diſcharge of 48 Pieces of Cannon, and of 12 Mortar<g ref="char:EOLhyphen"/>pieces, which were repeated divers times, to let the Enemy know we wanted no Artillery. We had begun the night before to fire fu<g ref="char:EOLhyphen"/>riouſly from the ſame Attack, and to caſt a great number of Bombs and Carcaſſes into the City. The Deſerters who came in to day relate, that they ſaw ſome of the Bills that had been ſhot into the City; that the hopes of a good Treatment, which was promis'd to them in it, had made them take this Reſolution of coming, and that divers others would follow their Examples. There was drawn this night at the Electoral Attack the Parallel Lines of Comm<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nica<g ref="char:EOLhyphen"/>tion from the two laſt Redoubts to the Battery, where we have be<g ref="char:EOLhyphen"/>gun to make a new place of Arms. The Works are advanced a<g ref="char:EOLhyphen"/>long the <hi>Glacis</hi> at the <hi>Lorrain</hi> Attack. And whereas the Enemy have ſet up a Row of Palliſado's behind the Patrapet of the Counter<g ref="char:EOLhyphen"/>ſcarp, and that they have gathered together a great heap of Sythes and of other Inſtruments on the left of the <hi>Lorrain</hi> Trenches, on the apprehenſion that the Beſieged had that we ſhould attack the covert way; it has been thought fit to leave there that Battalion which was there in reſerve this day. In the mean time our Miners are day and night buſied in diſcovering the Enemies Furnaces, and to make ſome in thoſe places where we deſign'd to open. There was this day nine killed, and 21 wounded in the Works. This day about Noon we learnt, that the French had made themſelves Maſters of <hi>Cocheim,</hi> where they had made about 600 Priſoners of War, being the 15th of this month, St. <hi>Lewis</hi> his Day, after that the Beſieged had ſuſtained the fourth Aſſault.</p>
+            <p>
+               <hi>Auguſt</hi> 19. They continued this day to fire all their Cannon from the two Attacks to ruine the Enemy's Defences, which was not with<g ref="char:EOLhyphen"/>out effect. They raiſed a little Fort at the Electoral Attack from the other ſide of the Bridge, a little higher than the Iſland: They began alſo that night to raiſe another Battery, the Work of which coſt us many mens lives, and ſeveral wounded. The Count of <hi>Reus,</hi> Major General of the <hi>Saxons,</hi> found a great many wounded, and Captain <hi>Wedel</hi> with a Lieutenant, and divers others killed. They made Platforms at the <hi>Lorrain</hi> Attack near to all the Regiments, who were be fore the Front of the Lines of Circumvallation, to plant their Field-pieces there, and to hinder by that the Surpriſe of the Ene<g ref="char:EOLhyphen"/>mies, who, according to the News that was ſpread, ought to be on their March to relieve the City. This day we met with two Deſer<g ref="char:EOLhyphen"/>ters, who yet could give no intelligence, but that the Enemy had re<g ref="char:EOLhyphen"/>lieved the Guard of Horſe, who till this preſent time, had been poſt<g ref="char:EOLhyphen"/>ed
+<pb n="21" facs="tcp:33239:13"/>at the Gallows, becauſe they had received very great Damage from the Redoubt which was on the left ſide of the Trenches of <hi>Lor<g ref="char:EOLhyphen"/>rain,</hi> that they could not advance any further on the Work. The Enemy had that night ſprung a Mine at the <hi>Lorrain</hi> Attack, which had no great effect, but only that it had ruined ſome paces of the Gallery which did lead to our Mine, burying two men with it who were found there, and ſprung alſo a Furnace on our left ſide under our Gallery nigh 18 feet, making two of our Mines uſeleſs, yet that did not hinder to carry on our Works, nor kept us from working at four places of the Sap. Another Deſerter came to the Camp, who did us better Service than the other two: obſerving that one had brought a Peaſant to ſpeak to an Officer of the Guard before the Tent of his Highneſs the Duke of <hi>Lorrain,</hi> he diſcovered that he was a man who carried all the Intelligence from without into the place; and that he carried it back to the Mareſhal <hi>Duras</hi> and others, all that was fit to be known. He was preſently ſeized, and they found that he had ſome Letters about him writ in Cyphers: and having con<g ref="char:EOLhyphen"/>feſs'd his Crime, there was a Report, that he ſhould be empaled a<g ref="char:EOLhyphen"/>live, after the <hi>Hungarian</hi> manner; to be made an Example to thoſe who ſhould dare to undertake ſo dangerous an Enterpriſe. There will be to morrow 104 pieces of Cannon mounted on the Battery a<g ref="char:EOLhyphen"/>gainſt the City beſides Mortar Pieces.</p>
+            <p>
+               <hi>Auguſt</hi> 20. The laſt night the <hi>Saxons</hi> began to raiſe a new Battery, to mount there 12 Cartouches, which they had received from their own Country.</p>
+            <p>
+               <hi>Auguſt</hi> 21. A Deſerter reported to the Duke of <hi>Lorrain,</hi> and to the Elector of <hi>Bavaria,</hi> that there was great plenty in the Garri<g ref="char:EOLhyphen"/>ſon, and that there was there 5000 fighting men. The <hi>Bavarians</hi> diſcharged five new Pieces of Cannon upon the Counterſcarp. The ſame day the Enemy ſprung a Mine on the ſide of the <hi>Lunenberg</hi> At<g ref="char:EOLhyphen"/>tack, but it had very little effect, having burſt on the ſide, becauſe the Allies had countermined it. An hour after they ſent ſome Mi<g ref="char:EOLhyphen"/>ners to ſind it out there, but they were forced to retire, being half dead, by reaſon of a horrible Smoak that came from it. The French had began another Mine on the left ſide, but we hoped that that which we had made very near it, would be ready to ſpring before theirs. The <hi>Saxons</hi> took a new Poſt near to the Counterſcarp, but yet they ſuffered a great loſs, having had at that time many men kil<g ref="char:EOLhyphen"/>led and wounded. <hi>Adjutant Rothkirk</hi> was of the number of the firſt. A Lieutenant in the Regiment of <hi>Schomberg</hi> was dangerouſly hurt in his Body; with many others, as Colonel <hi>Scot,</hi> who was mortally wounded in the Trenches.</p>
+            <pb n="22" facs="tcp:33239:14"/>
+            <p>
+               <hi>Auguſt</hi> 22. They continued this Day to fire their Cannon at the Gar<g ref="char:EOLhyphen"/>riſon, and we wrought all night at the great Parallel Line, but we did not advance very much, by reaſon of the Rocks that hindred us. The Imperialiſts and the <hi>Heſſians</hi> wrought all night at the Sap, they took their Poſt 20 paces from the Palliſade on the left ſide; and they maintained their Ground in deſpight of the cortinual firing of the Muſqueteers and Granadeers of the Beſieged, and from the great quantity of Stones that were ſhot from their Mortars; yet very ſew of the Souldiers were killed or wounded. They made again another great Sally, and the Prince of <hi>Commercy</hi> was reſolved to oppoſe it with his cuſtomary Force, and ſucceeded; who put himſelf at the Head of his Granadeers, and beat them back, after they had made their firſt ſhot, even into their covert way. He had on that occaſion, which was very hot, four Horſes killed under him, and the fifth wound<g ref="char:EOLhyphen"/>ed. His Maſter of the Horſe, his Adjutant General, and Baron <hi>Charles D'Oſterſtein,</hi> who followed the Prince, had alſo every one their Horſes killed under them. One of his Trumpetters and one of his Grooms were killed with their Horſes; yet that did not hin<g ref="char:EOLhyphen"/>der, but the Prince failed not to make two Lodgments in the open<g ref="char:EOLhyphen"/>ings of the <hi>Glacis,</hi> which the Furnaces had done, and they maintained themſelves there, tho' the Beſieged made their greateſt Efforts, to force them out. We loſt 100 men on this occaſion, and the Enemy ſuffered little leſs in number. And as the great Officers mount the Trenches, as well as the Souldiers, Prince <hi>Chriſtian</hi> of <hi>Sax-Hall</hi> was there alſo killed. To congratulate the Victory that Prince <hi>Waldeck</hi> had gained of Mareſhal <hi>d'Humiers,</hi> we this day diſcharged all our Cannon four times.</p>
+            <p>
+               <hi>Auguſt</hi> 23. The <hi>Lunenbergers</hi> alone relieved the Imperialiſts, and the <hi>Heſſians</hi> in their Trenches, and advanced their Works on the right ſide, as they had proceeded on the leſt the night before; ſo that they found themſelves very near to the two ſides, and with an equal diſtance to the covert way. The ſame day we ſeized on a Re<g ref="char:EOLhyphen"/>formade Golonel, who was ſuſpected to have held Intelligence with the Governour of the Garriſon.</p>
+            <p>
+               <hi>Auguſt</hi> 24. Two Thouſand <hi>Imperialiſts,</hi> and as many of the <hi>Heſſe<g ref="char:EOLhyphen"/>ans,</hi> re-gained the Place of the <hi>Lunenbergers,</hi> and advanced their Works by the <hi>Sapp,</hi> within 20 Foot of the Heighth of the <hi>Glaci<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> The Enemy ſprung again Two Mines, which were very ineffectual, except that we had one Soldier killed, and two wounded.</p>
+            <p>
+               <hi>Auguſt</hi> 25. The <hi>Imperialiſts</hi> and the <hi>Heſſians</hi> got again into their Works, continued the <hi>Sapp</hi> to the very heighth of the <hi>Glacis,</hi> and
+<pb n="23" facs="tcp:33239:14"/>made all neceſſary preparations to be able to open at the firſt Com<g ref="char:EOLhyphen"/>mand. There was alſo carried on this Day the Two Branches of the Trenches which they had begun to advance towards the Two ſides, to encompaſs behind the Redoubt, which the beſieged had raiſed to the Heighth of the Gallows, very nigh to the Palli<g ref="char:EOLhyphen"/>ſade.</p>
+            <p>
+               <hi>Auguſt</hi> 26. Four Thouſand <hi>Lunenbergers</hi> mounted alone the Trench, after their uſual manner, and advanced in the places of Arms with Faggots, and an Inſtrument to open the Ground, and with every thing that they had need to attack the Covert Way. They uſed the ſame means at the <hi>Bavarian</hi> Attack, and the <hi>Saxon</hi> Attack, whoſe Batteries had fired without ceaſing all the Days before againſt the Defences of the beſieged, and had not only ruined them, but had alſo made very great Breaches in the Ramparts, which facilitated their App<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap>a<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hes: Inſomuch, that the Trenches being alſo carried on above the <hi>Glacis,</hi> there was great hopes that we ſhould carry the Covert Way in this Attack, in the ſame manner as the <hi>Imperialiſts</hi> had done theirs, when they ſhould come to make an Aſſault. The Elector of <hi>Saxony</hi> having received at <hi>Franck fort</hi> the ſad News of Duke <hi>Chriſti<g ref="char:EOLhyphen"/>an</hi> of <hi>Saxe Hall,</hi> who was killed at the Approaches, and being in<g ref="char:EOLhyphen"/>formed, that the Army was advanced on all ſides, came back imme<g ref="char:EOLhyphen"/>diately to the Camp of <hi>Weiſſenau,</hi> where was his General Quarter, to take again the Command of his Troops which he had given him.</p>
+            <p>
+               <hi>Auguſt</hi> 27. All the Army being diſpoſed for a general Attack at the Covert Way, and the beſieged having attempted in vain to diſlodge the Beſiegers from their Works, begun about Four of the Clock in the Afternoon to give an Aſſault, with all Succeſs that in Reaſon they could promiſe themſelves, by the Conduct and Experience of their Generals and their Officers, and from the Valour and Undauntedneſs of the Soldiers. They began then about Four of the Clock, after the Signal of Three Cannons Diſcharged, and One Bomb that broke in the Air: They marched openly to the Aſſault, with that extraordina<g ref="char:EOLhyphen"/>ry Courage and Boldneſs, that the Enemy, being not able to endure our Onſet, immediately gave way, and quitted their Poſts and the Covert Way, as well at the <hi>Imperials</hi> Attack, as that of the <hi>Saxons</hi> and the <hi>Bavarians.</hi> In the mean time the Enemy having taken new Poſts on both ſides, and in Front, their firing was ſo very great and ſo laſting, for 3 hours, that it is impoſſible to apprehend not ſo much as the leaſt <hi>Idea,</hi> in relation to what has been done; for there is no Pa<g ref="char:EOLhyphen"/>rallel of the like in any former Siege. We were near 2 hours expo<g ref="char:EOLhyphen"/>ſed
+<pb n="24" facs="tcp:33239:15"/>without Covert, upon the Height of the <hi>Glacis</hi> joyned to the <hi>Palli<g ref="char:EOLhyphen"/>ſado</hi>'s, without being able to cover our ſelves, by reaſon of the conti<g ref="char:EOLhyphen"/>nual firing that was made, and did endure it with the greateſt Courage and Valour, till at laſt the Beſieged being broken, and preſſed on all ſides, were forced to give way to the Beſiegers, who took their Poſt at the very brink of the Ditch, where they fell to work to cover them<g ref="char:EOLhyphen"/>ſelves. During the time of the greateſt Attack the Enemy ſprung a Mine, which buried in its Ruines Four Colours, and a great many men. All the Night following was taken up in continual Skirmiſhes.</p>
+            <p>
+               <hi>Auguſt</hi> 28. The next Day they ſprung Two Mines more; but in<g ref="char:EOLhyphen"/>ſtead of doing hurt, their opening ſerved to lodge thoſe Men who were near the place where the Mine ſprung. Mean time there was a continual firing from our Artillery and Mortar-pieces. Our loſs was greater at the <hi>Imperialiſts,</hi> the <hi>Lunenbergers</hi> and the <hi>Heſſians</hi> Attacks, than at the <hi>Bavarians</hi> and <hi>Saxons,</hi> becauſe the Enemies Reſiſtance was greater there.</p>
+            <p>Here follows a Liſt of the Officers who were killed and wounded in that Aſſault.</p>
+            <list>
+               <head>
+                  <hi>Of the Side of the</hi> Imperialiſts.</head>
+               <item>Count <hi>Maximilian</hi> of <hi>Staremberg,</hi> Marſhal of the Camp, was wounded, but he died after<g ref="char:EOLhyphen"/>wards.</item>
+               <item>Count <hi>Souches,</hi> General of the Artillery, wounded.</item>
+               <item>Baron <hi>Wallis,</hi> Lieutenant Marſhal of the Camp, killed.</item>
+               <item>The Marqueſs of <hi>Parelli</hi> wound<g ref="char:EOLhyphen"/>ed.</item>
+               <item>Count of <hi>Furſtemberg</hi> killed.</item>
+               <item>Count <hi>Lamberg</hi> had both his Legs taken off with a Cannon Shot, of which he died a little after.</item>
+               <item>The Colonels,
+<list>
+                     <item>
+                        <hi>Laternach,</hi> Wounded.</item>
+                     <item>
+                        <hi>Schomberg,</hi> Wounded.</item>
+                     <item>
+                        <hi>Hulſter.</hi> Wounded.</item>
+                  </list>
+               </item>
+               <item>With many others, whoſe Names are not yet known.</item>
+            </list>
+            <list>
+               <head>
+                  <hi>Of the</hi> Saxon <hi>Regiment which is among the</hi> Imperialiſts.</head>
+               <item>Lieutenant Colonel <hi>Berghaltz,</hi> Wounded.</item>
+               <item>Captain <hi>Remitz,</hi> Wounded.</item>
+               <item>Captain <hi>Tecuſler.</hi> Wounded.</item>
+               <item>Captain <hi>Pforte,</hi> Wounded.</item>
+               <item>Major General <hi>Geigerſtberg,</hi> killed.</item>
+            </list>
+            <pb n="25" facs="tcp:33239:15"/>
+            <list>
+               <head>
+                  <hi>Of the Regiment of</hi> Gardes du Corps <hi>of his Highneſs the Elector of</hi> Saxe.</head>
+               <item>Major General <hi>Sahle,</hi> Wounded.</item>
+               <item>Captain <hi>Tittichof,</hi> Wounded.</item>
+               <item>Enſign <hi>Gerſdorf,</hi> Wounded.</item>
+               <item>Enſign <hi>Glitzing</hi> killed.</item>
+            </list>
+            <list>
+               <head>
+                  <hi>Of the Regiment of Duke</hi> Chriſtian.</head>
+               <item>Major General <hi>Zeigler,</hi> Wounded.</item>
+               <item>Captain <hi>Dunhoff,</hi> Wounded.</item>
+               <item>Captain <hi>Stange,</hi> Wounded.</item>
+               <item>Enſign <hi>Keiſer,</hi> Wounded.</item>
+            </list>
+            <list>
+               <head>
+                  <hi>Of the Regiment of</hi> Reus.</head>
+               <item>Captain <hi>Clunter,</hi> Wounded.</item>
+               <item>Lieutenant <hi>Zeigiſter,</hi> Wounded.</item>
+               <item>Lieutenant <hi>Ditzwick,</hi> Wounded.</item>
+               <item>Enſign <hi>Wetzmuth</hi> killed.</item>
+            </list>
+            <list>
+               <head>
+                  <hi>Of the Regiment of</hi> Rupſer.</head>
+               <item>Captain <hi>Pfoſter,</hi> Wounded, and.</item>
+               <item>His Lieutenant, Wounded.</item>
+               <item>Lieutenant <hi>Michel,</hi> Wounded.</item>
+               <item>Enſign <hi>Reitzwich,</hi> Wounded.</item>
+            </list>
+            <list>
+               <head>
+                  <hi>Of the Regiment of</hi> Zinzendorf.</head>
+               <item>Colonel Count of <hi>Zinzendorf,</hi> Wounded.</item>
+               <item>Count of <hi>Trunhoff,</hi> Wounded.</item>
+               <item>Lieutenant Colonel <hi>Ratel,</hi> Wounded.</item>
+               <item>Captain <hi>Burgſdorf,</hi> Wounded.</item>
+               <item>Lieutenant <hi>Reumor,</hi> Wounded.</item>
+               <item>Enſign <hi>Herling,</hi> Wounded.</item>
+               <item>Lieutenant <hi>Walckchoffen,</hi> killed.</item>
+               <item>Enſign <hi>Winchel,</hi> mortally wounded.</item>
+            </list>
+            <pb n="26" facs="tcp:33239:16"/>
+            <list>
+               <head>
+                  <hi>Of the Regiment of</hi> Flemming.</head>
+               <item>Major General <hi>Rodowitz,</hi> Wounded.</item>
+               <item>Colonel <hi>Piſtorius,</hi> Wounded.</item>
+               <item>Captain <hi>Vicethomb,</hi> Wounded.</item>
+               <item>Captain <hi>Renecke,</hi> Killed.</item>
+               <item>Lieutenant <hi>Haubwitz.</hi> Killed.</item>
+               <item>Enſign <hi>Waldan,</hi> Killed.</item>
+               <item>Lieutenant <hi>Manſhyff<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ll,</hi> mortally wounded.</item>
+            </list>
+            <list>
+               <head>
+                  <hi>Of the Regiment of</hi> Saxe Gott<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</head>
+               <item>The Lieutenant Col<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nel, Wounded.</item>
+               <item>A Captain, Wounded, and</item>
+               <item>A Corporal, Wounded.</item>
+            </list>
+            <list>
+               <head>
+                  <hi>Amongſt the</hi> Lunenbergers,</head>
+               <item>The Prince of <hi>Hannover</hi> was wounded in his Hand with a Gra<g ref="char:EOLhyphen"/>nade.</item>
+               <item>Baron <hi>D'Eltz</hi> wounded in the Small of his Back.</item>
+               <item>One of his Pages in the Arm.</item>
+               <item>Major General <hi>D'ohr</hi> with a Muſquet-Shot.</item>
+               <item>Lieutenant Colonel <hi>Hulſen,</hi> Mortally Wounded.</item>
+               <item>Major <hi>Schegel,</hi> Mortally Wounded.</item>
+               <item>Major <hi>Meynecken,</hi> Mortally Wounded.</item>
+               <item>Lieutenant Colonel <hi>Truchteben,</hi>
+               </item>
+               <item>Lieutenant Colonel <hi>Ramſtorf.</hi>
+               </item>
+               <item>Major <hi>Hering,</hi>
+               </item>
+               <item>Captain <hi>Tanyis,</hi>
+               </item>
+               <item>Captain <hi>Knige,</hi> with many others, all wounded.</item>
+            </list>
+            <list>
+               <head>
+                  <hi>Of the Regiment of</hi> Heſſeans.</head>
+               <item>Collonel <hi>Gortz,</hi> Killed.</item>
+               <item>Captain <hi>Valentine,</hi> Killed.</item>
+               <item>Captain <hi>Mohr,</hi> Killed.</item>
+               <item>Captain <hi>Grammer,</hi> Killed.</item>
+               <item>Colonel <hi>Schenk</hi> wounded twice.</item>
+               <item>Major <hi>Butler</hi> wounded twice.</item>
+               <pb n="27" facs="tcp:33239:16"/>
+               <item>Major <hi>Lo<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>menſtein</hi> wounded in the Foot.</item>
+               <item>Captain <hi>Elley</hi> wounded in the Calf of his Leg.</item>
+               <item>Captain <hi>Buſch,</hi> Wounded.</item>
+               <item>Captain <hi>Schenck,</hi> Wounded.</item>
+               <item>Lieutenant <hi>Heyemer,</hi> Wounded.</item>
+            </list>
+            <list>
+               <head>
+                  <hi>Of the Troops of</hi> Franconia.</head>
+               <item>Captain <hi>Sickes, killed</hi>
+               </item>
+               <item>Captain <hi>Teutſch, killed</hi>
+               </item>
+               <item>Captain <hi>Ordens, killed</hi>
+               </item>
+               <item>With Three other Captains.</item>
+            </list>
+            <list>
+               <head>
+                  <hi>Among the</hi> Bavarians.</head>
+               <item>
+                  <hi>Monſieur,</hi> the Elector, had a <hi>Contuſion</hi> in his Arm.</item>
+               <item>The Marqueſs of St. <hi>Maurice,</hi> Colonel of the Regiment of his Highneſs's Guards, was killed.</item>
+               <item>The Count of <hi>Gagersberg</hi> wounded.</item>
+               <item>With ſome other Officers.</item>
+               <item>A great many of the Wounded Died afterwards of their Wounds.</item>
+            </list>
+            <p>Beſides, there are about 2000 reckoned to be killed and wounded among the common Souldiers. And the loſs of the Beſieged was not leſs conſiderable, there being among the killed and wounded, whoſe number was at leaſt 2000, a great many Officers of Note, and the Chief of the Garriſon; nor is that to be wondered at, ſince they gave Quarter but to very ſew of thoſe who defended the Co<g ref="char:EOLhyphen"/>vert way, the Engagement being maintain'd with ſo great Heat and Fury.</p>
+            <p>
+               <hi>Auguſt</hi> 29. The Beſieged finding that the Enemy carried it on with the greateſt vigour; and having (without doubt) well conſi<g ref="char:EOLhyphen"/>dered the ſcituation of our Camp, the Impoſſibility to force it, and to throw Succours into the Place, the weakneſs of the Garriſon, the Neceſſities and Wants of their City, their great Loſs that fell upon them of their beſt Officers and Souldiers, the great number that they had of Sick Perſons, and of ſuch who were incapable of Fighting, the Covert way carried off by the Enemy, our Lodg<g ref="char:EOLhyphen"/>ments being out of reach, the Breaches very great and ſpatious, the Body of the Garriſon ready to be ſeized, and the Remnant of their Forces diſmayed, and incapable to hold out another Aſſault,
+<pb n="28" facs="tcp:33239:17"/>cauſed the White Flag to be hung out on the 29th of this Month at Eight of the Clock in the Morning, and to beat a Parley to capitu<g ref="char:EOLhyphen"/>late. His Highneſs the Prince <hi>Albert</hi> of <hi>Saxe Coubourg,</hi> who com<g ref="char:EOLhyphen"/>manded in the Trenches, on the ſide of the <hi>Imperial</hi> Attack, ſent a Trumpet to the Beſieged, to demand of them what it meant; to which they anſwered, That the Governour was inclined to give up the Garriſon: and if the Duke of <hi>Lorrain</hi> would be pleaſed to ſend the Governour a Lieutenant Colonel, with another Officer, to concert with them about Conditions, He would ſend to their Camp Hoſtages of the ſame Quality. Whereupon Prince <hi>Conbourg</hi> ſent his Aide Ma<g ref="char:EOLhyphen"/>jor to conſult with the Duke of <hi>Lorrain;</hi> and they agreed to the Go<g ref="char:EOLhyphen"/>vernours Deſires. But they had obliged the Governour to ſend firſt of all his Two Officers: Whereupon the Duke of <hi>Lorrain</hi> ſent into the City the Prince <hi>de Commercy,</hi> and Lieutenant Colonel <hi>Princi;</hi> and ſo there was a Ceſſation of Arms between both Parties. The Treaty was concluded before Night. It was reſolved, that the next Day we ſhould take poſſeſſion of St. <hi>Jacob</hi>'s <hi>Tower,</hi> and of the <hi>Gau Gate,</hi> with 5000 men; and that on the 31ſt, <hi>Sunday</hi> morning, the <hi>French</hi> Garriſon ſhould go out of the place with Six Pieces of Cannon, Two Mortars with the Arms of <hi>France,</hi> and ſome Waggons laden with their Baggage, with their Colours flying, Drums beating, lighted Matches, and to be guarded to <hi>Landau,</hi> with a Convoy of 10000 <hi>Imperialiſts.</hi> Our Souldiers were much troubled to find that they had made a Treaty with the Incendiaries, for they had all a very great deſire to take the City by Storm, to be revenged on the cruel and perfl<g ref="char:EOLhyphen"/>dious <hi>French.</hi>
+            </p>
+            <p>
+               <hi>Auguſt</hi> 30. We took poſſeſſion of the aforeſaid Places, and all things were preparing for the next Day, the Enemy to depart the place, and we to receive and convoy them.</p>
+            <p>
+               <hi>Auguſt</hi> 31. The time being come that the <hi>French</hi> Garriſon was to leave the place, and to paſs through our Army, according to the Capitulations that had been made, the <hi>Imperialiſts</hi> drew up their Ar<g ref="char:EOLhyphen"/>my into Ranks at Six of the Clock in the morning, to receive their Enemies. Many of the <hi>Imperial</hi> Cavalry poſted themſelves on the Right ſide of the <hi>Gan Gate;</hi> On the left ſide were chiefly to be ſeen the <hi>Gardes du Corps</hi> of the Elector of <hi>Bavaria,</hi> and next to them the <hi>Gardes du Corps</hi> of the Elector of <hi>Saxony,</hi> with ſome other Troops of the <hi>Imperial</hi> Cavalry and Dragoons: After which the <hi>French</hi> began to march out of the City at Seven of the Clock in the morning, in this following manner:</p>
+            <pb n="29" facs="tcp:33239:17"/>
+            <p>Firſt of all there appeared 50 Horſemen with Four Officers, fol<g ref="char:EOLhyphen"/>lowed with 60 Dragoons and 2 Officers.</p>
+            <p>80 Foot with 10 Officers, 8 Mules, 6 Light Horſemen, 12 Carts and 5 Horſes loaden.</p>
+            <p>50 Foot with 6 Officers, 24 Carts, 26 Horſes loaden.</p>
+            <p>54 Foot and 3 Officers, 80 Horſes loaden, and 26 Carts.</p>
+            <p>54 Foot with 3 Officers, 83 Horſes loaden, 17 Carts and a Cha<g ref="char:EOLhyphen"/>riot.</p>
+            <p>48 Foot with 6 Officers, 37 Horſes loaden, and 12 Carts.</p>
+            <p>49 Foot with 3 Officers, 2 Mules, 22 Carts, 6 Officers, 23 Horſes loaden.</p>
+            <p>49 Foot with 3 Officers, 7 Mules, 87 Horſes loaden, 37 Carts.</p>
+            <p>50 Foot with 3 Officers, 7 Mules, 87 Horſes loaden, 37 Carts.</p>
+            <p>50 Foot with 3 Officers, 2 Light Horſemen, 1 Chariot, 1 Litter, 49 Carts, and 46 Horſes loaden.</p>
+            <p>57 Foot with 4 Officers, 31 Horſes loaden, 32 Carts, 9 Mules, 1 Cha<g ref="char:EOLhyphen"/>riot with 2 Ladies, 26 Carts, 26 Horſes loaden.</p>
+            <p>64 Foot with 6 Officers, 63 Horſes loaden, 11 Carts.</p>
+            <p>66 Foot and 5 Officers, 26 Horſes loaden, 10 Carts, 1 Coach with ſix Horſes, another Coach with the Colonel of Dragoons, who was wounded, 2 Chariots, 5 Mules, 12 Carts, 3 Light Horſemen, Mr. <hi>De Vienbour.</hi>
+            </p>
+            <p>4 Halberdiers and 23 Foot with 5 Officers, 44 Carts, 76 Horſes loaden.</p>
+            <p>32 Foot 7 Officers.</p>
+            <p>41 Dragoons with 2 Officers.</p>
+            <p>32 Light Horſemen with 2 Officers.</p>
+            <p>The Marqueſs of <hi>
+                  <g ref="char:V">Ʋ</g>xelles,</hi> Governour of <hi>Mayence,</hi> with a Train of 40 Horſe.</p>
+            <p>98 Dragoons, 12 Officers, with 2 Standarts.</p>
+            <p>78 Dragoons, 10 Officers with 2 Standarts.</p>
+            <p>88 Dragoons, 13 Officers and 2 Standarts, and 9 Officers woun<g ref="char:EOLhyphen"/>ded.</p>
+            <p>75 Horſemen, 4 Officers, and 2 Standarts.</p>
+            <p>611 Foot of the Regiment of <hi>Dauphin,</hi> with 6 Colours, and 40 Officers.</p>
+            <p>603 Foot of the Regiment of <hi>Anjou,</hi> 28 Officers, and 6 Co<g ref="char:EOLhyphen"/>lours.</p>
+            <p>250 Foot, 23 Officers, and 3 Colours, of the Regiment of <hi>Bre<g ref="char:EOLhyphen"/>tagne.</hi>
+            </p>
+            <pb n="30" facs="tcp:33239:18"/>
+            <p>267 Foot, of the Regiment of <hi>Granadeers,</hi> 31 Officers, and 3 Co<g ref="char:EOLhyphen"/>lours.</p>
+            <p>207 Foot, of the Regiment of <hi>Jarſi,</hi> 31 Officers and 3 Co<g ref="char:EOLhyphen"/>lours.</p>
+            <p>379 Foot, of the Regiment of <hi>Benois,</hi> 32 Officers, and 3 Co<g ref="char:EOLhyphen"/>lours.</p>
+            <p>246 Foot, of the Regiment of <hi>Orleans,</hi> 16 Officers, and 3 Co<g ref="char:EOLhyphen"/>lours.</p>
+            <p>273 Foot, of the Regiment of <hi>Maine,</hi> 21 Officers, and 3 Co<g ref="char:EOLhyphen"/>lours.</p>
+            <p>339 Foot, of the Regiment of <hi>Curſole,</hi> 26 Officers and 3 Co<g ref="char:EOLhyphen"/>lours.</p>
+            <p>311 Foot, of the Regiment of <hi>Bourbignan,</hi> 24 Officers, and 3 Colours.</p>
+            <p>43 Dragoons, of the Regiment of <hi>Houte,</hi> with 6 Officers.</p>
+            <p>44 Horſemen with 5 Officers.</p>
+            <p>76 Foot.</p>
+            <p>250 Foot Souldiers, who marched about the Baggage.</p>
+            <p>300 Horſes belonging to the Officers.</p>
+            <p>Which amounts to in all,
+<list>
+                  <item>4572 Foot.</item>
+                  <item>357 Officers.</item>
+                  <item>400 Dragoons.</item>
+                  <item>45 Officers.</item>
+                  <item>287 Horſes.</item>
+                  <item>29 Officers.</item>
+                  <item>1000 Foot that marched on the ſides of the Carts, of the Hor<g ref="char:EOLhyphen"/>ſes, of the Coaches, and of the Horſes laden.</item>
+               </list>
+            </p>
+            <p>So that the <hi>French</hi> who marched out of <hi>Mayence,</hi> were to the Num<g ref="char:EOLhyphen"/>ber of 6690 Men, with 572 Horſes loaded.</p>
+            <list>
+               <item>334 Carts.</item>
+               <item>31 Mules.</item>
+               <item>45 Light Horſemen.</item>
+               <item>6 Chairs.</item>
+               <item>2 Coaches.</item>
+               <item>1 Litter.</item>
+               <item>36 Colours.</item>
+               <item>10 Standarts.</item>
+            </list>
+            <pb n="31" facs="tcp:33239:18"/>
+            <p>Beſides theſe, there were embarked in ſeveral Boats which had been ſent from <hi>Strasburg,</hi> with Amunition for the Enemy, 6 pieces of Cannon, 2 Mortars, 2 Haubitz, and 1500 ſick People, where ſome were continually Dying, which they threw over into the <hi>Rhine.</hi> Our Loſs amounted to almoſt 8000 Men. We may very well ſee that they carried away a great many things, and a vaſt number of Goods, beſides the Money they had extorted from the Neighbour<g ref="char:EOLhyphen"/>ing Countries. As the Marqueſs of <hi>
+                  <g ref="char:V">Ʋ</g>xelles</hi> was going out of the Garriſon, he took his leave of the Duke of <hi>Lorrain,</hi> of the Elector of <hi>Saxony,</hi> and of <hi>Bavaria,</hi> as alſo of all the reſt of the Princes and Generals, who had been very obliging to him. And as the <hi>French</hi> are very perfidious, and that they could not relye upon their words; the Allies had reſerved ſome <hi>French</hi> Officers to re<g ref="char:EOLhyphen"/>main here as Hoſtages, till all the Articles of Agreement had been punctually performed. They aſſur'd us that the <hi>French</hi> Garriſon did conſiſt of 11000 fighting Men before the Siege: They were conſtrain'd to ſurrender the Place becauſe they wanted Powder, for there were found but 600 weight of Powder. The time of their departure out of the Garriſon, was from Seven a Clock in the Morn<g ref="char:EOLhyphen"/>ing till Three of the Clock in the Afternoon. After which time, the Allies took poſſeſſion of the City. Our Bombs had done very little hurt to any of the Convents, except a Nunnery; yet there were a great many Houſes whoſe tops were pierc'd like Sives. They took out of St. <hi>Stephens</hi> Church many Cart-loads of Dead Bodies of the <hi>French,</hi> which they threw into the <hi>Rhine.</hi> There were a great number alſo that were not Buried, and a great many in Holes and in Convents, which lay not a foot deep in the Earth, which cauſed a moſt horrid ſtinking ſmell in all thoſe Places. The Caſtle of the Elector, which the <hi>French</hi> had turn'd to an Hoſpital, was fill'd with Dead and Wounded, among which, there were many Sick, who in three days had no kind of Refreſhment. The Enemies had wrought Day and Night in fortifying this Garriſon, in the time of Nine Months that they were Maſters of it; for they were ſo well advanced, and ſo Regular, that there remained little or nothing to be done. But above all, the Fort that is upon the <hi>Rhine,</hi> is a Piece worthy Admiration. The Peaſants began to level the ways for our Approaches, and to deſtroy the Mines. All the En<g ref="char:EOLhyphen"/>gineers who were in that Garriſon were either kill'd or wound<g ref="char:EOLhyphen"/>ed. And very few remain'd alive on our ſide.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
